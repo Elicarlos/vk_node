@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+
+}
+
+
+.cabecalho {
+ background-color: aqua;
+ padding: 10px;
+}
+.cabecalho ul {
+    text-align: right;
+}
+.cabecalho ul li {
+   display: inline-flex;
+   margin-left: 30px;
+   text-align: left;
+}
